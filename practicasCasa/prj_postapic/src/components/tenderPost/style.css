@@ -1,0 +1,7 @@
+.card-title{
+    color: red;
+}
+
+.selected {
+    border-color: blue;
+}
